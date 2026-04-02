@@ -1,0 +1,51 @@
+well,depth_m,latitude,longitude,bhtcorrected_temp_C,thermal_gradient_K_m,k_W_mK,optMdot,lcoe_b_USD,lcoe_g_USD,power_MW,error
+0,3879.3,32.8002,-93.1672,193.0,0.044700000000000004,2.09,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+1,3929.3,32.6775,-94.9812,184.7,0.042,2.12,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+2,3647.9,32.8002,-93.1672,167.8,0.0407,2.09,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+3,3595.1,32.6775,-94.9812,161.1,0.0394,2.12,97.1016706990001,155.42778810188432,245.62896492270463,4.04814663873945,
+4,3514.0,32.5311,-94.62969,158.0,0.039020000000000006,2.35,93.04539259900012,167.03273142908787,267.4997429470639,3.5449648135991327,
+5,3274.7,32.7832,-93.4002,154.3,0.0412,2.1,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+6,3879.28,32.53559,-94.82366,151.29,0.03359,2.36,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+7,3755.25,32.58534,-94.69041,151.24,0.03472,2.37,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+8,3398.0,32.56314,-94.82131,151.0,0.038270000000000005,2.35,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+9,3380.95,32.51575,-94.83413,150.11,0.03818,2.35,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+10,3696.3,32.6803,-94.9829,150.1,0.035,2.07,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+11,3498.06,32.55336,-94.56122,149.81,0.03688,2.36,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+12,3399.84,32.51843,-94.75825,149.05,0.03767,2.34,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+13,3300.0,32.55275,-94.72241,149.0,0.038810000000000004,2.35,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+14,3657.6,32.6806,-94.9755,147.8,0.0347,2.07,87.3380025990001,205.93664289299318,345.24249961238627,2.671466598034461,
+15,3849.37,32.53102,-94.6297,147.4,0.032869999999999996,2.38,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+16,3740.2,32.6856,-94.6111,147.3,0.0342,2.11,88.72177449900008,204.52707975289957,343.18306341130096,2.751422790574176,
+17,3319.0,32.55629,-94.82437,147.0,0.03797,2.36,83.48639259900013,202.35250630779453,334.88527574943583,2.5272839971051635,
+18,3286.0,32.51989,-94.82124,147.0,0.038340000000000006,2.36,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+19,3292.0,32.54322,-94.82287,147.0,0.03828,2.36,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+20,3286.0,32.5295,-94.82741,147.0,0.038340000000000006,2.36,83.15745069900012,201.62221866504905,333.125897367712,2.5202260014843576,
+21,3298.0,32.54752,-94.80647,147.0,0.03821,2.36,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+22,3879.9,32.8363,-94.9116,146.9,0.0325,2.08,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+23,3942.1,32.8305,-94.7262,146.9,0.032299999999999995,2.13,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+24,3672.6,32.6547,-94.9475,146.8,0.0343,2.07,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+25,3447.6,32.9672,-93.2172,146.4,0.0368,2.12,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+26,3288.0,32.52506,-94.82652,146.0,0.038009999999999995,2.36,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+27,3900.0,33.0461,-94.7991,145.8,0.0325,2.16,89.25538449900007,214.53727366082515,364.6284114937031,2.664357642224419,
+28,3597.6,32.6354,-95.0111,145.0,0.0345,2.07,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+29,3346.32,32.51365,-94.54443,144.47,0.036950000000000004,2.35,82.1122806990001,213.9166934001747,357.9761290865876,2.345438254530154,
+30,3659.1,32.6517,-94.9636,143.9,0.033600000000000005,2.07,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+31,3809.1,32.5627,-95.0627,143.5,0.032600000000000004,2.11,86.97016449900009,221.2924498634249,377.3354449837223,2.495357967033809,
+32,3924.7,33.0227,-94.5413,143.5,0.0317,2.15,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+33,3813.7,32.5272,-95.0452,143.5,0.0325,2.11,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+34,3319.0,32.57005,-94.81108,143.0,0.036770000000000004,2.35,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+35,3272.0,32.5682,-94.82735,143.0,0.0373,2.36,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+36,3293.0,32.5704,-94.73786,143.0,0.037079999999999995,2.35,80.6507163990001,219.43446757259795,368.34211365830663,2.2306854501663285,
+37,3321.0,32.57126,-94.81896,143.0,0.03675,2.36,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+38,3315.0,32.51734,-94.78006,143.0,0.0368,2.35,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+39,3318.0,32.51518,-94.86287,143.0,0.03676,2.36,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+40,3325.0,32.57938,-94.81753,143.0,0.03671,2.35,80.94539259900013,220.3103187992923,370.418775868169,2.2356596725288123,
+41,3271.0,32.56448,-94.82687,143.0,0.03731,2.36,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+42,3894.71,32.55017,-94.82634,142.4,0.03118,2.36,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+43,3404.88,32.57065,-94.78294,142.39,0.03567,2.34,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+44,3348.21,32.50963,-94.54977,142.26,0.03626,2.35,80.67016449900011,224.5836222923887,379.1522430237481,2.187287168712613,
+45,3341.6,32.51376,-94.54929,142.24,0.03633,2.35,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+46,3617.7,33.0401,-93.2553,142.2,0.0341,2.13,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+47,3257.0,32.51933,-94.79174,142.0,0.037149999999999996,2.36,79.6621187990001,223.46175210808514,375.92718618205583,2.1534847449674257,
+48,3321.0,32.56415,-94.80567,142.0,0.03645,2.35,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 2.570 MPa!
+49,3256.0,32.58465,-94.79762,142.0,0.03719,2.36,79.6621187990001,223.36342151741093,375.7214748374548,2.154305386486211,
