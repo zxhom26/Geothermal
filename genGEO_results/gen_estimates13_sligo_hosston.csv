@@ -1,0 +1,113 @@
+well,depth_m,latitude,longitude,bhtcorrected_temp_C,thermal_gradient_K_m,k_W_mK,optMdot,lcoe_b_USD,lcoe_g_USD,power_MW,error
+0,5538.7,30.6361,-95.3651,205.2,0.0329,1.98,586.2539363989999,209.90761515192122,261.30098955252276,4.912109400166095,
+1,5187.8,30.6815,-94.8103,202.4,0.0347,1.97,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+2,4633.2,30.8095,-94.8958,199.7,0.038299999999999994,1.98,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+3,4878.0,30.6731,-94.5637,199.1,0.0363,1.97,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+4,4139.3,30.8416,-94.7266,193.5,0.0414,1.98,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+5,4724.1,30.7657,-95.2341,193.5,0.0361,1.98,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+6,3879.3,32.8002,-93.1672,193.0,0.044700000000000004,2.09,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+7,3642.0,32.38374,-94.73103,192.0,0.04690999999999999,2.34,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+8,4695.7,30.6776,-95.4402,188.5,0.0352,1.98,610.3949363989999,179.7144932272674,219.95082484777978,6.274177275414239,
+9,4302.1,30.9274,-93.7976,188.0,0.038700000000000005,1.97,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+10,4422.3,30.8438,-94.3533,188.0,0.0375,1.97,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+11,4610.7,30.8821,-93.896,184.7,0.0354,1.96,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+12,3929.3,32.6775,-94.9812,184.7,0.042,2.12,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+13,3739.6,31.9197,-94.549,184.0,0.0437,2.02,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+14,3945.7,32.35667,-94.64604,183.51,0.041159999999999995,2.38,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+15,4729.3,30.6814,-94.6912,183.0,0.034,1.97,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+16,4693.0,30.6938,-94.6943,181.9,0.034,1.97,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+17,4607.0,30.7035,-94.6572,179.1,0.034,1.97,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+18,4618.9,30.6826,-94.6836,179.1,0.0339,1.97,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+19,4342.7,30.7348,-94.6705,174.7,0.0351,1.97,606.1270606989998,184.51832086368455,226.49082130761363,6.014649468803918,
+20,3902.4,30.5614,-94.515,174.1,0.0389,1.96,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+21,4333.2,30.7326,-94.6562,173.5,0.0349,1.97,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+22,3637.8,31.9197,-94.549,173.3,0.042,2.02,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+23,3969.5,30.8785,-94.4788,173.0,0.038,1.97,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+24,4970.7,30.5403,-94.6683,172.4,0.030199999999999998,1.96,538.6813925989995,261.6447501115142,335.3798534379674,3.4237407436965137,
+25,3739.9,30.9345,-94.7213,172.3,0.040100000000000004,1.98,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+26,3866.37,32.43492,-94.67283,171.84,0.039009999999999996,2.38,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+27,4538.4,30.6814,-94.6912,169.1,0.032299999999999995,1.97,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+28,3747.0,30.5516,-94.8048,168.4,0.0389,1.97,643.7129363989999,147.44895082258915,176.55522315271764,8.6733840265122,
+29,4072.9,30.8821,-93.896,168.0,0.0359,1.96,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+30,3647.9,32.8002,-93.1672,167.8,0.0407,2.09,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+31,4835.1,32.4697,-95.2691,165.8,0.0299,2.07,520.3156582989996,278.0758122898587,360.1852866971583,3.0745523500392427,
+32,3428.8,32.4382,-94.58102,165.78,0.04224,2.35,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+33,3811.6,32.39271,-94.7845,165.72,0.03793,2.35,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+34,3906.1,30.9552,-93.9005,164.7,0.0366,1.93,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+35,4416.5,32.4697,-95.2691,162.4,0.032,2.07,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+36,3970.7,31.8179,-94.7663,161.9,0.0356,2.02,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+37,3595.1,32.6775,-94.9812,161.1,0.0394,2.12,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+38,3053.56,32.3483,-94.82097,160.74,0.045689999999999995,2.32,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+39,3989.46,32.35129,-94.69189,160.71,0.03498,2.37,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+40,3757.3,32.1491,-95.1434,160.7,0.037,2.05,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+41,4405.5,30.6826,-94.6836,160.2,0.0313,1.97,562.1050482989998,243.0510697763797,307.66203545745884,3.9072295985413277,
+42,3902.1,30.8359,-94.9089,159.7,0.0352,1.98,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+43,3416.8,30.8519,-94.3535,159.6,0.0404,1.93,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+44,3655.5,32.1901,-95.1436,159.5,0.0378,2.06,629.8058406989999,159.81618254244887,193.07879362591225,7.589598930342447,
+45,3419.67,32.37636,-94.82854,159.09,0.04032,2.35,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+46,2791.2,31.8001,-94.7995,158.4,0.0489,2.02,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+47,3514.0,32.5311,-94.62969,158.0,0.039020000000000006,2.35,639.932716399,150.78822394262716,180.99555639567936,8.357238358991298,
+48,3902.89,32.44229,-94.67079,157.96,0.03509,2.38,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+49,3874.7,31.8179,-94.7663,156.9,0.0352,2.02,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+50,3921.15,32.48026,-94.61828,156.29,0.03452,2.39,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+51,3511.91,32.46356,-94.66045,155.95,0.03843,2.35,634.8896125989999,155.23791257452282,186.93840474888412,7.96359489029091,
+52,3981.7,30.759,-95.2264,155.8,0.0337,1.95,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+53,4023.2,30.7107,-93.6123,155.8,0.0334,1.95,584.6338325989999,212.18688259059095,264.4481787321646,4.830532270297588,
+54,4355.5,30.7504,-94.8177,155.8,0.030600000000000002,1.97,547.1156582989997,254.77024731315745,325.072416505799,3.590925861870473,
+55,3852.21,32.48669,-94.58851,155.73,0.035,2.38,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+56,3861.65,32.44219,-94.6713,155.18,0.03474,2.38,598.4122806989999,193.96184019675587,239.3727666563757,5.559232043502421,
+57,3867.95,32.40765,-94.77327,155.18,0.03465,2.36,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+58,3990.09,32.45883,-94.59313,155.16,0.03364,2.39,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+59,3716.5,32.1937,-95.1323,155.1,0.0359,2.06,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+60,3354.82,32.4292,-94.59324,155.05,0.03997,2.34,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+61,3302.25,32.4312,-94.57432,154.91,0.04056,2.34,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+62,3958.92,32.45876,-94.6002,154.61,0.03376,2.39,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+63,3274.7,32.7832,-93.4002,154.3,0.0412,2.1,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+64,3816.8,30.5985,-94.1747,154.1,0.0346,1.96,599.584326399,192.3309906522999,237.1533858102839,5.632226404002923,
+65,3809.08,32.4743,-94.64668,154.05,0.03494,2.37,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+66,3788.7,32.1385,-95.14,154.0,0.0349,2.05,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+67,3659.5,32.2083,-95.1238,153.9,0.0362,2.06,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+68,3415.89,32.42289,-94.66508,153.53,0.03879,2.34,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+69,4450.3,30.6938,-94.6943,153.5,0.0295,1.97,520.3351063989995,277.6123794707187,359.54713659699394,3.081108510645641,
+70,3384.1,32.44578,-94.64038,153.46,0.03914,2.34,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+71,3705.83,32.38811,-94.54873,153.43,0.03574,2.37,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+72,3340.34,32.31925,-94.67123,153.35,0.03957,2.35,646.0538987989997,145.63895355402593,174.1406791648431,8.857354145730707,
+73,3640.9,32.1556,-95.0971,153.3,0.0362,2.05,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+74,3720.7,32.163,-95.1303,152.9,0.0353,2.05,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+75,3664.6,30.9293,-94.3075,152.8,0.0357,1.97,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+76,3365.53,32.41775,-94.62677,152.3,0.039009999999999996,2.34,640.3606706989998,150.4193359153444,180.50378299385085,8.391375013164554,
+77,3673.8,32.1582,-95.1006,152.3,0.0356,2.05,608.2465087989998,182.13172675955911,223.23814305294394,6.141374030216215,
+78,3628.4,32.2002,-95.1292,152.2,0.036,2.06,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+79,3749.0,32.33389,-94.67531,152.0,0.0349,2.36,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+80,3447.69,32.37545,-94.68249,151.93,0.037939999999999995,2.34,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+81,3828.4,32.1917,-95.0995,151.9,0.0341,2.06,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+82,3413.69,32.41122,-94.60641,151.86,0.038329999999999996,2.34,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+83,3889.04,32.44297,-94.5332,151.85,0.03367,2.39,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+84,3594.8,32.1939,-95.063,151.7,0.0362,2.05,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+85,3566.8,30.5361,-94.4729,151.6,0.0363,1.96,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+86,3503.2,32.348,-94.2837,151.5,0.0373,2.05,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+87,3504.9,30.5052,-94.7635,151.5,0.0371,1.92,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+88,3207.3,30.5526,-95.017,151.3,0.040100000000000004,1.97,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+89,3852.4,30.8531,-94.927,151.3,0.0335,1.98,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+90,3917.7,30.8278,-94.3905,151.3,0.033,1.97,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+91,3879.28,32.53559,-94.82366,151.29,0.03359,2.36,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+92,3876.76,32.43123,-94.52967,151.29,0.03363,2.39,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+93,3755.25,32.58534,-94.69041,151.24,0.03472,2.37,597.4500606989999,195.16049549549385,241.01471765084756,5.505488167352445,
+94,3384.1,32.42725,-94.77383,151.23,0.038450000000000005,2.35,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+95,3690.72,32.45552,-94.60998,151.19,0.03529,2.37,603.9538987989997,187.21336121495358,230.15389102532097,5.879058283964157,
+96,3658.8,32.2266,-95.1193,151.1,0.0354,2.06,605.8518325989999,184.86881440404494,226.9660425187055,5.996828979139682,
+97,3398.0,32.56314,-94.82131,151.0,0.038270000000000005,2.35,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+98,3563.1,32.2028,-95.0816,151.0,0.0363,2.06,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+99,3242.13,32.39758,-94.53929,150.85,0.040060000000000005,2.34,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+100,3422.3,32.1226,-94.8708,150.7,0.0378,2.05,629.7669444989999,159.84845440302504,193.12236016428935,7.58702267508791,
+101,3750.21,32.46067,-94.52658,150.69,0.03461,2.38,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+102,3380.32,32.44221,-94.59217,150.67,0.038369999999999994,2.34,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+103,3690.09,32.32665,-94.61129,150.64,0.0351,2.36,602.6238406989997,188.78985345400127,232.30552963953727,5.801354813449074,
+104,3358.92,32.38988,-94.59916,150.62,0.038579999999999996,2.34,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+105,3647.6,32.1523,-95.1004,150.6,0.0354,2.05,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+106,3658.2,32.1446,-95.1043,150.6,0.0353,2.05,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+107,3380.95,32.51575,-94.83413,150.11,0.03818,2.35,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+108,3696.3,32.6803,-94.9829,150.1,0.035,2.07,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+109,3753.7,32.1329,-95.0455,150.1,0.0343,2.05,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+110,3672.6,32.1481,-95.1071,150.1,0.035,2.05,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
+111,3660.4,32.15,-95.0982,150.0,0.0351,2.05,0.0,0.0,0.0,0.0,GenGeo::SemiAnalyticalWell:BelowSaturationPressure - Below saturation pressure of water at 500.0 m !
