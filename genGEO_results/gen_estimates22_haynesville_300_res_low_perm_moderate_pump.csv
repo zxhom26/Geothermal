@@ -1,0 +1,53 @@
+well,depth_m,latitude,longitude,bhtcorrected_temp_C,thermal_gradient_K_m,k_W_mK,optMdot,lcoe_b_USD,lcoe_g_USD,power_MW,error
+0,521.3,31.2634,-95.218,57.2,0.0668,1.99,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+1,841.5,31.7049,-93.9206,65.0,0.0522,2.0,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+2,1144.3,32.51014,-94.85021,80.77,0.05219,2.27,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+3,1791.5,32.6898,-94.2976,110.4,0.0502,2.07,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+4,1847.2,31.7418,-93.8744,112.5,0.0495,2.0,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+5,2791.2,31.8001,-94.7995,158.4,0.0489,2.02,17.376898799000013,332.06147662592974,668.4276289378024,1.2237053878777286,
+6,1190.2,31.7162,-93.8704,78.6,0.0484,2.0,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+7,3642.0,32.38374,-94.73103,192.0,0.04690999999999999,2.34,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+8,3053.56,32.3483,-94.82097,160.74,0.045689999999999995,2.32,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+9,2681.7,32.6303,-94.6304,141.7,0.0451,2.07,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+10,3879.3,32.8002,-93.1672,193.0,0.044700000000000004,2.09,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+11,3739.6,31.9197,-94.549,184.0,0.0437,2.02,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+12,1237.8,32.6172,-93.4342,73.6,0.0437,2.08,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+13,519.8,31.2644,-95.212,45.0,0.0435,1.99,15.791060699000003,473.3139103862459,988.5121301579493,0.7989411785353895,
+14,2495.73,32.59281,-94.64352,128.92,0.04332,2.3,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+15,1263.4,31.7002,-93.3002,75.0,0.0432,1.98,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+16,1117.54,32.51474,-94.82837,69.31,0.0432,2.27,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+17,1124.47,32.49132,-94.83458,69.4,0.04298,2.27,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+18,2364.78,32.30692,-94.66516,122.46,0.04283,2.3,15.625288799000002,529.9625409302104,1116.0352919945287,0.702324194626423,
+19,2013.4,32.6804,-94.2828,105.8,0.0424,2.07,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+20,3428.8,32.4382,-94.58102,165.78,0.04224,2.35,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+21,3637.8,31.9197,-94.549,173.3,0.042,2.02,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+22,3929.3,32.6775,-94.9812,184.7,0.042,2.12,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+23,2135.7,32.1338,-94.3136,110.7,0.0419,2.04,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+24,2589.9,31.0513,-93.7674,129.5,0.0417,1.97,15.199106399000003,561.4607909030757,1188.265114137581,0.6566851210592931,
+25,2365.2,30.6835,-94.076,119.7,0.0415,1.91,15.145392599000003,563.0099584310642,1191.9430971165941,0.6544623705852272,
+26,1280.5,32.0602,-94.0819,74.1,0.0414,2.03,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+27,4139.3,30.8416,-94.7266,193.5,0.0414,1.98,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+28,3274.7,32.7832,-93.4002,154.3,0.0412,2.1,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+29,1115.2,31.7591,-93.9638,67.0,0.0412,2.0,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+30,3945.7,32.35667,-94.64604,183.51,0.041159999999999995,2.38,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+31,2309.0,32.40481,-94.81602,116.0,0.04107,2.3,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+32,2227.1,33.4578,-93.7058,110.3,0.041,2.18,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+33,2226.5,33.4501,-93.7168,110.3,0.041,2.18,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+34,982.6,33.4287,-93.9445,59.2,0.0409,2.18,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+35,2454.18,32.42982,-94.78846,121.42,0.04087,2.3,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+36,2893.6,32.0238,-94.3185,139.5,0.040799999999999996,2.03,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+37,3112.0,32.3553,-94.61178,148.0,0.040780000000000004,2.36,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+38,3647.9,32.8002,-93.1672,167.8,0.0407,2.09,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+39,3145.0,32.33463,-94.55943,149.0,0.04068,2.35,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+40,2042.7,32.4027,-94.1788,103.8,0.040600000000000004,2.05,14.870164499000003,631.4862035166465,1347.0899616826891,0.5751969133569477,
+41,3302.25,32.4312,-94.57432,154.91,0.04056,2.34,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+42,3416.8,30.8519,-94.3535,159.6,0.0404,1.93,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+43,2324.48,32.32195,-94.66361,114.95,0.040350000000000004,2.3,14.889612599000003,660.7069262989683,1412.8771309615045,0.5472339509491885,
+44,3419.67,32.37636,-94.82854,159.09,0.04032,2.35,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+45,2140.2,32.1346,-94.2621,107.4,0.040299999999999996,2.04,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+46,2618.9,32.3838,-95.095,126.9,0.040299999999999996,2.06,14.816450699000002,643.6180418228122,1374.7007687154887,0.5630184625387332,
+47,2509.9,32.57,-94.78284,121.79,0.04018,2.3,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+48,3207.3,30.5526,-95.017,151.3,0.040100000000000004,1.97,14.816450699000002,629.5071773414633,1342.849039406146,0.5770207733110946,
+49,3739.9,30.9345,-94.7213,172.3,0.040100000000000004,1.98,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+50,3242.13,32.39758,-94.53929,150.85,0.040060000000000005,2.34,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
+51,2433.8,31.7767,-94.7667,119.1,0.04,2.01,0.0,0.0,0.0,0.0,GenGeo::DownHolePump:ExceedsMaxProductionPumpPressure - Exceeds Max Pump Pressure of 8.000 MPa!
